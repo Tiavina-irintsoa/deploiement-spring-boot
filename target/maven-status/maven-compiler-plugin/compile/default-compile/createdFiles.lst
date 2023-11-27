@@ -1,0 +1,6 @@
+nba\back\repositories\BookRepository.class
+nba\back\controllers\BookController.class
+nba\back\BackApplication.class
+nba\back\models\Book.class
+nba\back\tools\Util.class
+nba\back\services\BookService.class
