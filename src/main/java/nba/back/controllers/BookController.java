@@ -84,7 +84,7 @@ public class BookController {
       Optional<Book> to_update = bookService.findById(id);
       if (to_update.isPresent()) {
         Book updated = to_update.get();
-        updated.setBookName(updated.getBookName());
+        updated.setBookName(book.getBookName());
         response.put("data", bookService.insert(updated));
         return new ResponseEntity<>(response, HttpStatus.OK);
       }
