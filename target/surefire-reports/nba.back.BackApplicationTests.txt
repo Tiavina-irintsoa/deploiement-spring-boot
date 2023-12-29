@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: nba.back.BackApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 35.1 s - in nba.back.BackApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 149.945 s - in nba.back.BackApplicationTests
